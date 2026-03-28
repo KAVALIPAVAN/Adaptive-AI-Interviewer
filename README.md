@@ -7,7 +7,7 @@
 ![React](https://img.shields.io/badge/React-18-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-local%20LLM-000000?style=flat-square)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
+<!-- ![License](https://img.shields.io/badge/license-MIT-green?style=flat-square) -->
 
 ---
 
@@ -328,11 +328,11 @@ Contributions are welcome. Please open an issue first to discuss what you would 
 
 ---
 
-## License
+<!-- ## License
 
 MIT License — see [LICENSE](LICENSE) for details.
 
----
+--- -->
 
 ## Acknowledgements
 
